@@ -1,4 +1,4 @@
-package ejercicios_dia3;
+package Ejercicios_dia3;
 
 public class Ejercicio2_MostrarUnMensajePersonalizado {
 
