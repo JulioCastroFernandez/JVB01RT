@@ -1,6 +1,6 @@
-package ejerciciosDia3;
+package ejercicios_dia3;
 
-public class ejercicio3ConcatenacionConMayusYMinus {
+public class Ejercicio3_ConcatenacionMayusYMinus {
 
     public static String concatenarCadenas(String cadenaMayusculas, String cadenaMinusculas){
         return cadenaMinusculas + " " + cadenaMayusculas;
@@ -13,3 +13,4 @@ public class ejercicio3ConcatenacionConMayusYMinus {
         System.out.println(saludo);
     }
 }
+

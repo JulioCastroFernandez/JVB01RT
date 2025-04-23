@@ -1,7 +1,6 @@
-package ejerciciosDia3;
+package ejercicios_dia3;
 
-
-public class ejercicio1SumaDeNumeros {
+public class Ejercicio1_SumaDeNumeros {
 
     public static int sumaDeNumeros (int a, int b){
         return a + b;
@@ -18,5 +17,5 @@ public class ejercicio1SumaDeNumeros {
         System.out.println("El tercer resultado es: " + resultado3);
     }
 
-    }
+}
 

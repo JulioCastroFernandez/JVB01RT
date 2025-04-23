@@ -1,11 +1,12 @@
-package ejerciciosDia4;
+package Ejercicios_dia4;
 
 import java.util.Scanner;
 
-public class ejercicio2EstructurasRepetitivas {
+public class Ejercicio2_EstructurasRepetitivas {
 
 
     public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
         double totalCompra = 0.0;
         String continuar;
@@ -23,4 +24,5 @@ public class ejercicio2EstructurasRepetitivas {
 
 
     }
-}
+    }
+

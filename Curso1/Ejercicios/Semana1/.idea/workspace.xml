@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="92cf9ac5-e5da-41c2-9c26-6e60c95e3137" name="Changes" comment="" />
+    <list default="true" id="92cf9ac5-e5da-41c2-9c26-6e60c95e3137" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/ejerciciosDia3/ejercicio1SumaDeNumeros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/ejerciciosDia3/ejercicio2MostrarMensaje.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/ejerciciosDia3/ejercicio3ConcatenacionConMayusYMinus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/ejerciciosDia4/ejercicio1EstructurasCondicionales.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/ejerciciosDia4/ejercicio2EstructurasRepetitivas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/ejerciciosDia4/ejercicio3ArreglosVectores.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +21,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2vlKWc6LNqhTVlHfYS4Zi7JMWoG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,7 +35,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Julio/Documents/hackaboss/JVB01RT/Curso1/Ejercicios/Semana1/app"
+    "last_opened_file_path": "C:/Users/Julio/Documents/hackaboss/JVB01RT/Curso1/Ejercicios/Semana2"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

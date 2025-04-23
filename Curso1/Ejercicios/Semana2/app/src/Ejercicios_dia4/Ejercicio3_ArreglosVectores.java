@@ -1,6 +1,6 @@
-package ejerciciosDia4;
+package Ejercicios_dia4;
 
-public class ejercicio3ArreglosVectores {
+public class Ejercicio3_ArreglosVectores {
 
     public static void main(String[] args) {
 
@@ -27,3 +27,4 @@ public class ejercicio3ArreglosVectores {
         System.out.println("La temperatura máxima es: " + temperaturaMaxima);
     }
 }
+
