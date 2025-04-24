@@ -1,7 +1,5 @@
 package Ejercicios_dia6;
 
-import java.util.Arrays;
-
 public class Ejercico2_POO {
 
     public static class Persona{
@@ -9,7 +7,7 @@ public class Ejercico2_POO {
         String nombre;
         int edad;
         String direccion;
-        int numerDeTelefono;
+        int numeroDeTelefono;
 
         public int getId() {
             return id;
@@ -43,12 +41,12 @@ public class Ejercico2_POO {
             this.direccion = direccion;
         }
 
-        public int getNumerDeTelefono() {
-            return numerDeTelefono;
+        public int getNumeroDeTelefono() {
+            return numeroDeTelefono;
         }
 
-        public void setNumerDeTelefono(int numerDeTelefono) {
-            this.numerDeTelefono = numerDeTelefono;
+        public void setNumeroDeTelefono(int numerDeTelefono) {
+            this.numeroDeTelefono = numerDeTelefono;
         }
 
         public Persona(int id, String nombre, int edad, String direccion, int numerDeTelefono) {
@@ -56,7 +54,7 @@ public class Ejercico2_POO {
             this.nombre = nombre;
             this.edad = edad;
             this.direccion = direccion;
-            this.numerDeTelefono = numerDeTelefono;
+            this.numeroDeTelefono = numerDeTelefono;
 
 
         }
