@@ -3,11 +3,11 @@ package Ejercicios_dia6;
 public class Ejercicio1_ClasesYObjetos {
 
     public static class electrodomestico {
-        String cod;
-        String marca;
-        String modelo;
-        String consumo;
-        String color;
+        private String cod;
+        private String marca;
+        private String modelo;
+        private String consumo;
+        private String color;
 
         public electrodomestico(String cod, String marca, String modelo, String consumo, String color) {
             this.cod = cod;
