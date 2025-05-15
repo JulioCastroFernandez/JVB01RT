@@ -1,4 +1,4 @@
-package Ejercicios_dia7_1;
+package Ejercicios_dia7_2;
 
 public class Sombrero extends Vestimenta{
     private String tipo;

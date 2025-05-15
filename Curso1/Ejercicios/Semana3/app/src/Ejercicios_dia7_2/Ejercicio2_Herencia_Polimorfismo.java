@@ -1,4 +1,4 @@
-package Ejercicios_dia7_1;
+package Ejercicios_dia7_2;
 
 public class Ejercicio2_Herencia_Polimorfismo {
 

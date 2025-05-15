@@ -1,4 +1,4 @@
-package Ejercicios_dia7;
+package Ejercicios_dia7_1;
 
 public class Animal {
     private int id;

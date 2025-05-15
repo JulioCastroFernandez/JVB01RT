@@ -8,14 +8,15 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        ClientController clientController = new ClientController();
+        ClientController clientController = new ClientController();  // Instancia del controlador
         Scanner scanner = new Scanner(System.in);
-        int opcion = -1;  //Opcion inicial para entrar en el bucle
+        int opcion = -1;
 
         System.out.println("--- GESTION DE CLIENTES ---");
 
         while (opcion != 0) {
-            mostrarMenu(); //Muestro las opciones al usuario
+            while (opcion != 0)
+            mostrarMenu();
 
             try {
                 System.out.println("Introduce tu opción: ");
