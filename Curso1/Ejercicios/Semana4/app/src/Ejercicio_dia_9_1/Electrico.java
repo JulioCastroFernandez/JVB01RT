@@ -1,4 +1,4 @@
-package Ejercicio_dia_9;
+package Ejercicio_dia_9_1;
 
 public interface Electrico {
     void cargarEnergia();

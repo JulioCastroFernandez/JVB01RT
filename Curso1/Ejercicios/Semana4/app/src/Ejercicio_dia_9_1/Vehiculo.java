@@ -1,4 +1,4 @@
-package Ejercicio_dia_9;
+package Ejercicio_dia_9_1;
 
 public abstract class Vehiculo {
     private int id;
